@@ -24,4 +24,4 @@ The decryption process works by extracting the 2 least significant bits from eac
 
 **Additional files:**
 
-Included is a .txt file containing the entirety of Shakespeare's _Hamlet_ to use with encryption. Any standard image will work for encryption and decryption.
+Included is a python script that achieves the same result, created as a self-exercise in improving python coding ability. Additionally, there is a .txt file containing the entirety of Shakespeare's _Hamlet_ to use with encryption. Any standard image will work for encryption and decryption.
