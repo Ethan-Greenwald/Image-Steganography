@@ -9,12 +9,12 @@ Choose whether to encrypt text or decrypt (extract) text from the image.
 **Encrypting:**
 
 Select a .txt text file containing the message to be encrypted. Text processing shouldn't take long for any small message.
-A progress bar will open, click start. Once finished, choose an image write path ending in .jpg or .png (typing the name of a file that does not exist at the designated directory will instead create a new image file).
+A progress bar will open, click start. Once finished, choose a JPG or PNG image path (typing the name of a file that does not exist at the designated directory will instead create a new image file).
 
 **Decrypting:**
 
 A progress bar will open, click start. Clicking cancel prior to completion (used in situations such as decoding a larger image, such as a 4k picture, which would otherwise take a fair amount of time) will save the already decrypted text to a designated location.
-Choose a .txt text file to write to (typing the name of a file that does not exist at the designated directory will instead create a new image file).
+Choose a .txt text file to write to (typing the name of a file that does not exist at the designated directory will instead create a new text file).
 
 **Program information:**
 
